@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectTresPesosCuartaPractica</string>
+    <string name="IrAGoku">Goku</string>
+    <string name="IrAVegeta">Vegeta</string>
+    <string name="IrATrunks">Trunks</string>
+    <string name="IrAGohan">Gohan</string>
+    <string name="IrANappa">Nappa</string>
+    <string name="IrACell">Cell</string>
+    <string name="IrARaditz">Raditz</string>
+    <string name="IrAKidBuu">Kid Buu</string>
+    <string name="IrABaby">Baby</string>
+    <string name="IrAPiccoro">Piccoro</string>
+    <string name="PantallaPrincipal">REGRESAR PANTALLA PRINCIPAL</string>
+</resources>
